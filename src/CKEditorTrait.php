@@ -52,6 +52,7 @@ trait CKEditorTrait
             case 'basic':
             case 'full':
             case 'standard':
+            case 'kiesvoorjezorg':
                 $preset = __DIR__ . '/presets/' . $this->preset . '.php';
                 break;
             default:
