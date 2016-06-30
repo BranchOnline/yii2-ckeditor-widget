@@ -11,7 +11,7 @@ return [
     'allowedContent' => true,
     'toolbar' => [
         ['Source', 'Styles', 'Format', 'FontSize'],
-        [ 'Link', 'Unlink', 'Anchor', 'oembed'],
+        [ 'Link', 'Unlink', 'Anchor', 'oembed', 'Image'],
         ['Bold', 'Italic', 'Underline', 'Strike'],
         ['NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote'],
         [ 'Cut', 'Copy', 'Paste', 'PasteText', 'PasteFromWord', '-', 'Undo', 'Redo']
